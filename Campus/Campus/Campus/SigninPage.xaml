@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.SigninPage" Title="GBP Campus">
+    <ScrollView>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Grid RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <ActivityIndicator Grid.RowSpan="2"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       IsVisible="False"
+                       IsEnabled="True"
+                       x:Name="syncIndicator"/>
+                <StackLayout Grid.Row="0" BackgroundColor="#5ABAFF"></StackLayout>
+                <StackLayout Grid.Row="1">
+                    <StackLayout  Padding="10,0,10,0" BackgroundColor="White" Spacing="15" x:Name="mainstack">
+                        <BoxView HeightRequest="20"/>
+                        <Label Text="Student's Login" FontSize="30" TextColor="Teal" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                        <BoxView HeightRequest="5"/>
+                        <Frame BackgroundColor="#f6f6f6">
+                            <StackLayout Orientation="Vertical" Padding="5,15,5,5">
+                                <Label Text="Username" FontSize="20" TextColor="Black" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                                <Entry Placeholder="Enter your roll no." x:Name="rollno"/>
+                                <Label Text="Password" FontSize="20" TextColor="Black" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                                <Entry Placeholder="Enter password" x:Name="password" IsPassword="True"/>
+                                <Button Text="LOGIN" BackgroundColor="Silver" Clicked="Onsigninclicked"/>
+                                <StackLayout>
+                                    <Label Text="forgot password?" HorizontalOptions="CenterAndExpand" TextColor="Blue"/>
+                                    <StackLayout.GestureRecognizers>
+                                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+                                    </StackLayout.GestureRecognizers>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                        <StackLayout Padding="10,10,10,10">
+                            <Button Text="Register" BackgroundColor="Silver" Clicked="Onregisterclicked"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Admin_Section.AddNotificationsPage" Title="Add New">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="close" Order="Primary" Clicked="Oncloseclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+    <ScrollView Padding="10,10,10,10">
+        <StackLayout Spacing="5">
+            <StackLayout Padding="10,10,10,0">
+                <Label Text="Notification Visiblity Area" VerticalTextAlignment="End" FontSize="20" FontAttributes="Bold"/>
+            </StackLayout>
+            <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+            <StackLayout Padding="10,10,5,10">
+                <Picker Title="Select Area" x:Name="Area" SelectedIndexChanged="Area_SelectedIndexChanged">
+                    <Picker.Items>
+                        <x:String>Global</x:String>
+                        <x:String>Specific Class</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+            <StackLayout x:Name="Global_Stack" IsVisible="False">
+                <StackLayout Padding="10,10,10,0">
+                    <Label Text="Notification Type" VerticalTextAlignment="End" FontSize="20" FontAttributes="Bold"/>
+                </StackLayout>
+                <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+                <StackLayout Padding="10,10,5,10">
+                    <Picker Title="Select Type" x:Name="type">
+                        <Picker.Items>
+                            <x:String>Anouncement</x:String>
+                            <x:String>Notice</x:String>
+                            <x:String>Academics</x:String>
+                            <x:String>Placement</x:String>
+                            <x:String>Library</x:String>
+                            <x:String>Sports</x:String>
+                            <x:String>Others</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout x:Name="local_Stack" IsVisible="False">
+                <StackLayout Padding="10,10,10,0">
+                    <Label Text="Select Department" VerticalTextAlignment="End" FontSize="20" FontAttributes="Bold"/>
+                </StackLayout>
+                <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+                <StackLayout Padding="10,10,5,10">
+                    <Picker Title="Select Type" x:Name="department">
+                        <Picker.Items>
+                            <x:String>C.S.E.</x:String>
+                            <x:String>M.A.E.</x:String>
+                            <x:String>E.C.E.</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout Padding="10,10,10,0">
+                <Label Text="Title" VerticalTextAlignment="End" FontSize="20" FontAttributes="Bold"/>
+            </StackLayout>
+            <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+            <StackLayout Padding="10,10,5,10">
+                <Entry x:Name="title"/>
+            </StackLayout>
+            <StackLayout Padding="10,10,10,0">
+                <Label Text="Abstract" VerticalTextAlignment="End" FontSize="20" FontAttributes="Bold"/>
+            </StackLayout>
+            <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+            <StackLayout Padding="10,10,5,10">
+                <Editor x:Name="content" HeightRequest="150"/>
+            </StackLayout>
+            <StackLayout Padding="80,10,80,10">
+                <Button Text="Create" BackgroundColor="Gray" TextColor="White" Clicked="Onclreateclicked"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

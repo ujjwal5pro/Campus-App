@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Admin_Section.UsersPage" Title="Users">
+  <!--<ContentPage.ToolbarItems>
+    <ToolbarItem Text="Filter" Order="Secondary" Clicked="Onfilterclicked"/>
+  </ContentPage.ToolbarItems>-->
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Refresh" Order="Secondary" Clicked="ToolbarItem_Clicked"/>
+  </ContentPage.ToolbarItems>
+    
+  <ScrollView Padding="5,10,10,10">
+        <StackLayout>
+            <Grid RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <ActivityIndicator Grid.RowSpan="2"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       IsVisible="False"
+                       IsEnabled="True"
+                       x:Name="syncIndicator"/>
+                <StackLayout Grid.Row="0" BackgroundColor="#5ABAFF">
+                </StackLayout>
+                <ListView x:Name="todoList"
+				ItemSelected="OnSelected"
+				IsPullToRefreshEnabled="true" Refreshing="OnRefresh"
+				Grid.Row="1" RowHeight="80" SeparatorColor="Black">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.ContextActions>
+                                    <MenuItem Clicked="OnComplete" Text="Block" CommandParameter="{Binding .}"/>
+                                </ViewCell.ContextActions>
+                                <StackLayout Padding="2">
+                                    <Frame Padding="2">
+                                        <StackLayout Orientation="Horizontal">
+                                            <StackLayout Padding="5">
+                                                <Frame BackgroundColor="Silver">
+                                                    <Image Source="user0.png" VerticalOptions="CenterAndExpand" 
+                                                           HorizontalOptions="CenterAndExpand" HeightRequest="20" WidthRequest="20"/>
+                                                </Frame>
+                                            </StackLayout>
+                                            <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" 
+                                                         HorizontalOptions="FillAndExpand">
+                                                <Label Text="{Binding Name}" FontSize="Medium" TextColor="Black"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                    </Frame>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </StackLayout>
+  </ScrollView>
+</ContentPage>

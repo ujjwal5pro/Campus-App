@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Profile_Section.EditprofilePage" Title="Edit Profile" BackgroundColor="#f6f6f6">
+ <ScrollView>
+   <StackLayout Padding="10,10,10,10" Spacing="5">
+       <StackLayout Padding="100,20,100,5">
+         <Frame Padding="5">
+           <StackLayout>
+               <Image Source="user.png"/>
+           </StackLayout>
+         </Frame>
+       </StackLayout>
+       <Entry Placeholder="Ujjwal Verma" FontSize="20" HorizontalTextAlignment="Center"/>
+       <BoxView HeightRequest="10"/>
+       <Label Text="Personal Details" HorizontalTextAlignment="Center" FontSize="15"/>
+     <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+     <StackLayout BackgroundColor="White" Padding="10,10,10,10">
+         <StackLayout Padding="10,0,10,0">
+           <StackLayout Orientation="Horizontal">
+             <Label Text="Session" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+             <Entry Placeholder="2014-2017" HorizontalOptions="EndAndExpand" WidthRequest="150"/>
+           </StackLayout>
+         </StackLayout>
+         <StackLayout Padding="10,0,10,0">
+           <StackLayout Orientation="Horizontal">
+             <Label Text="Department" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+             <Entry Placeholder="CSE" HorizontalOptions="EndAndExpand" WidthRequest="150"/>
+           </StackLayout>
+         </StackLayout>
+         <StackLayout Padding="10,0,10,0">
+           <StackLayout Orientation="Horizontal">
+             <Label Text="Roll no" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+             <Entry Placeholder="00120907214" HorizontalOptions="EndAndExpand" WidthRequest="150"/>
+           </StackLayout>
+         </StackLayout>
+         <StackLayout Padding="10,0,10,0">
+           <StackLayout Orientation="Horizontal">
+             <Label Text="Birth Date" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+             <Entry Placeholder="03/12/1993" HorizontalOptions="EndAndExpand" WidthRequest="150"/>
+           </StackLayout>
+         </StackLayout>
+       </StackLayout>
+       <BoxView HeightRequest="10"/>
+       <Label Text="Contacts" HorizontalTextAlignment="Center" FontSize="15"/>
+     <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+     <StackLayout BackgroundColor="White" Padding="10,10,10,10">
+         <StackLayout Padding="10,0,10,0">
+           <StackLayout Orientation="Horizontal">
+             <Label Text="Phone" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+             <Entry Placeholder="7053813448" HorizontalOptions="EndAndExpand" WidthRequest="200"/>
+           </StackLayout>
+         </StackLayout>
+         <StackLayout Padding="10,0,10,0">
+           <StackLayout Orientation="Horizontal">
+             <Label Text="Email Id" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+             <Entry Placeholder="ujjwal.pro5@gmail.com" HorizontalOptions="EndAndExpand" WidthRequest="200"/>
+           </StackLayout>
+         </StackLayout>
+       </StackLayout>
+     <BoxView HeightRequest="10"/>
+     <StackLayout Padding="80,5,80,15">
+       <Button Text="continue" BackgroundColor="Gray" TextColor="White" Clicked="Oncontinueclicked"/>
+     </StackLayout>
+   </StackLayout>
+ </ScrollView>
+</ContentPage>

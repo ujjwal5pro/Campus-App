@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.MyClassroom_Section.MyClassroom">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="Search.png" Text="Search" Order="Primary" Clicked="Onsearchclicked"/>
+        <ToolbarItem Text="Refresh" Order="Secondary" Clicked="Onnotificaitonclicked"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView>
+        <StackLayout Padding="5,5,5,0">
+            <BoxView HeightRequest="5"/>
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <StackLayout Grid.Row="1" Grid.Column="0">
+                        <Frame>
+                            <Label Text="Time Table"  FontSize="15" VerticalOptions="Center" HorizontalOptions="Center"/>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Oncontenttapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                    <StackLayout Grid.Row="1" Grid.Column="1">
+                        <Frame>
+                            <Label Text="Syllabus" FontSize="15" VerticalOptions="Center" HorizontalOptions="Center"/>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Oncontenttapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                    <StackLayout Grid.Row="2" Grid.Column="0">
+                        <Frame>
+                            <Label Text="Notes"  FontSize="15" VerticalOptions="Center" HorizontalOptions="Center"/>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Oncontenttapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                    <StackLayout Grid.Row="2" Grid.Column="1">
+                        <Frame>
+                            <Label Text="Q.Papers"  FontSize="15" VerticalOptions="Center" HorizontalOptions="Center"/>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Oncontenttapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                    <StackLayout Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Padding="10" Orientation="Vertical">
+                        <Label Text="Classroom Updates" FontSize="25" FontAttributes="Bold"/>
+                        <ScrollView>
+                            <StackLayout Padding="5,10,5,0">
+                                <Grid RowSpacing="0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <ActivityIndicator Grid.RowSpan="2" HorizontalOptions="Center" VerticalOptions="Center"
+                                      IsVisible="False" IsEnabled="True" x:Name="syncIndicator"/>
+                                    <StackLayout Grid.Row="0" BackgroundColor="#5ABAFF">
+                                    </StackLayout>
+                                    <ListView x:Name="todoList" ItemSelected="OnSelected" IsPullToRefreshEnabled="true"
+                                              Refreshing="OnRefresh" Grid.Row="1" RowHeight="82" SeparatorVisibility="None">
+                                        <ListView.ItemTemplate>
+                                            <DataTemplate>
+                                                <ViewCell>
+                                                    <ViewCell.ContextActions>
+                                                        <MenuItem Clicked="OnComplete" Text="Complete" CommandParameter="{Binding .}"/>
+                                                    </ViewCell.ContextActions>
+                                                    <StackLayout Padding="2">
+                                                        <Frame Padding="2">
+                                                            <StackLayout Orientation="Horizontal">
+                                                                <StackLayout Padding="5">
+                                                                    <Frame BackgroundColor="Silver">
+                                                                        <Label Text="CL" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                                                                    </Frame>
+                                                                </StackLayout>
+                                                                <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" 
+                                                         HorizontalOptions="FillAndExpand">
+                                                                    <Label Text="{Binding Name}" FontSize="Medium" TextColor="Black"/>
+                                                                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                                                                        <Label Text="{Binding Dtime}" FontSize="Micro" TextColor="Silver" 
+                                                       VerticalOptions="CenterAndExpand"/>
+                                                                    </StackLayout>
+                                                                </StackLayout>
+                                                            </StackLayout>
+                                                        </Frame>
+                                                    </StackLayout>
+                                                </ViewCell>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+                                    </ListView>
+                                </Grid>
+                            </StackLayout>
+                        </ScrollView>
+                    </StackLayout>
+                    <StackLayout Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="0">
+                        <Frame>
+                            <Label Text="Lecture Videos" FontSize="15" VerticalOptions="Center" HorizontalOptions="Center"/>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Oncontenttapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                    <StackLayout Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="0">
+                        <Frame>
+                            <Label Text="Course Tutrials" FontSize="15" VerticalOptions="Center" HorizontalOptions="Center"/>
+                        </Frame>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Oncontenttapped"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

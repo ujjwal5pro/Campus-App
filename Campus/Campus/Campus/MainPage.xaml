@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Campus"
+             x:Class="Campus.MainPage" Title="GBP Campus">
+ <MasterDetailPage.Master>
+        <ContentPage Title="Main Page">
+            <StackLayout>
+                <ScrollView>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <!--<RowDefinition Height="Auto"/>-->
+                            <!--<RowDefinition Height="Auto"/>-->
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackLayout Grid.Row="0" BackgroundColor="Teal">
+                            <BoxView HeightRequest="25"/>
+                            <Label Text="GBP" FontSize="70" TextColor="White" HorizontalTextAlignment="Center"
+                     VerticalOptions="CenterAndExpand" HorizontalOptions="Center"/>
+                            <Label Text="Campus" FontSize="25" TextColor="White" HorizontalTextAlignment="Center"
+                     HorizontalOptions="CenterAndExpand" VerticalOptions="Start"/>
+                            <BoxView HeightRequest="10"/>
+                            <StackLayout Padding="20,10,10,10" Orientation="Horizontal" BackgroundColor="#367588">
+                                <Frame BackgroundColor="Silver" OutlineColor="White" Padding="2" MinimumWidthRequest="35">
+                                    <Image Source="user0.png" HeightRequest="25" WidthRequest="25" VerticalOptions="CenterAndExpand"
+                                           HorizontalOptions="CenterAndExpand"/>
+                                </Frame>
+                                <BoxView WidthRequest="15"/>
+                                <Label Text="{Binding Name}" VerticalOptions="CenterAndExpand" TextColor="White" FontSize="15" FontAttributes="Bold"/>
+                            </StackLayout>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnMenuTapped"></TapGestureRecognizer>
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+                        <StackLayout Grid.Row="1">
+                            <StackLayout Orientation="Horizontal">
+                                <BoxView WidthRequest="20"/>
+                                <Label Text="Academics Section" FontSize="15" VerticalTextAlignment="Center" FontAttributes="Bold" />
+                            </StackLayout>
+                            <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+                        </StackLayout>
+                        <StackLayout Grid.Row="2">
+                            <StackLayout Orientation="Horizontal" >
+                                <BoxView WidthRequest="10"/>
+                                <Image Source="Principal.png" HeightRequest="40" WidthRequest="40"></Image>
+                                <BoxView WidthRequest="15"/>
+                                <Label Text="From Principal" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" />
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="Onfromprincipaltapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                            <BoxView HeightRequest="0.5" BackgroundColor="Silver"></BoxView>
+                        </StackLayout>
+                        <StackLayout Grid.Row="3">
+                            <StackLayout Orientation="Horizontal" >
+                                <BoxView WidthRequest="10"/>
+                                <Image Source="Details.png" HeightRequest="40" WidthRequest="40"></Image>
+                                <BoxView WidthRequest="15"/>
+                                <Label Text="About College" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" />
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="Ondetailstapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                            <BoxView HeightRequest="0.5" BackgroundColor="Silver"></BoxView>
+                        </StackLayout>
+                        <!--<StackLayout Grid.Row="4" >
+              <StackLayout Orientation="Horizontal" >
+                <BoxView WidthRequest="10"/>
+                <Image Source="PlacementCell.png" HeightRequest="40" WidthRequest="40"></Image>
+                <BoxView WidthRequest="15"/>
+                <Label Text="Placement Cell" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+                <StackLayout.GestureRecognizers>
+                  <TapGestureRecognizer Tapped="Onplacementcelltapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                </StackLayout.GestureRecognizers>
+              </StackLayout>
+              <BoxView HeightRequest="0.5" BackgroundColor="Silver"></BoxView>
+            </StackLayout>-->
+                        <StackLayout Grid.Row="5" >
+                            <StackLayout Orientation="Horizontal" >
+                                <BoxView WidthRequest="10"/>
+                                <Image Source="Library.png" HeightRequest="40" WidthRequest="40"></Image>
+                                <BoxView WidthRequest="15"/>
+                                <Label Text="Library" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" />
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="Onlibrarytapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                            <BoxView HeightRequest="0.5" BackgroundColor="Silver"></BoxView>
+                        </StackLayout>
+                        <!--<StackLayout Grid.Row="6"  >
+              <StackLayout Orientation="Horizontal" >
+                <BoxView WidthRequest="10"/>
+                <Image Source="Payment.png" HeightRequest="40" WidthRequest="40"></Image>
+                <BoxView WidthRequest="15"/>
+                <Label Text="Fees Payment" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+                <StackLayout.GestureRecognizers>
+                  <TapGestureRecognizer Tapped="Onpaymenttapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                </StackLayout.GestureRecognizers>
+              </StackLayout>
+              <BoxView HeightRequest="0.5" BackgroundColor="Silver"></BoxView>
+            </StackLayout>-->
+                        <StackLayout Grid.Row="7">
+                            <StackLayout Orientation="Horizontal" >
+                                <BoxView WidthRequest="10"/>
+                                <Image Source="Result.png" HeightRequest="40" WidthRequest="40"></Image>
+                                <BoxView WidthRequest="15"/>
+                                <Label Text="Result" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" />
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="Onresulttapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                            <BoxView HeightRequest="0.5" BackgroundColor="Silver"></BoxView>
+                        </StackLayout>
+                        <StackLayout Grid.Row="8">
+                            <StackLayout Orientation="Horizontal">
+                                <BoxView WidthRequest="10"/>
+                                <Image Source="Rti.png" HeightRequest="40" WidthRequest="40"></Image>
+                                <BoxView WidthRequest="15"/>
+                                <Label Text="RTI" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center"  />
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="Onrtitapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                        </StackLayout>
+                    </Grid>
+                </ScrollView>
+                <StackLayout BackgroundColor="#367588">
+                    <StackLayout Orientation="Horizontal">
+                        <BoxView WidthRequest="10"/>
+                        <Image Source="Logout.png" HeightRequest="40" WidthRequest="40"></Image>
+                        <BoxView WidthRequest="15"/>
+                        <Label Text="Signout" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White"/>
+                        <StackLayout.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="Onlogouttapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+                        </StackLayout.GestureRecognizers>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+</MasterDetailPage>

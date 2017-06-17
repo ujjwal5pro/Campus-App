@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Admin_Section.AllMediaContentPage" Title="Media Content">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Add Media" Icon="Add.png" Order="Secondary" Clicked="Onaddclicked"/>
+  </ContentPage.ToolbarItems>
+  <ScrollView Padding="10,10,10,10">
+    <StackLayout>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Purple"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Blue"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Fuchsia"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Green"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Maroon"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Red"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Purple"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Blue"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Fuchsia"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Green"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Maroon"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Orientation="Horizontal" Padding="20,10,10,10" Spacing="5">
+        <StackLayout>
+          <Frame BackgroundColor="Red"/>
+        </StackLayout>
+        <BoxView WidthRequest="20"/>
+        <StackLayout Orientation="Vertical">
+          <Label Text="Content Title" FontSize="15" />
+          <Label Text="Date And Time" FontSize="10" TextColor="Silver"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" HorizontalOptions="EndAndExpand">
+          <Label Text="size" FontSize="10" TextColor="Silver" HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="Oncontentapped"></TapGestureRecognizer>
+        </StackLayout.GestureRecognizers>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

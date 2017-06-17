@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Profile_Section.Profile">
+   <!--<ContentPage.ToolbarItems>
+     <ToolbarItem Icon="Notification1.png" Order="Primary" Clicked="Onnotificationclicked"/>
+     <ToolbarItem Icon="Settings.png" Text="Settings" Order="Secondary" Clicked="Onsettingclicked"/>
+     <ToolbarItem Text="Logout" Icon="Logout.png" Order="Secondary" Clicked="Onlogoutclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>-->
+    <ScrollView>
+        <StackLayout Padding="5,5,5,5">
+            <BoxView HeightRequest="5"></BoxView>
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Frame Grid.RowSpan="2" Grid.Column="0" Padding="5">
+                        <Image Source="user.png"/>
+                    </Frame>
+                    <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" FontSize="25" FontAttributes="Bold" HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center" VerticalOptions="Center"/>
+                    <Button Grid.Row="1" Grid.Column="1" Text="Edit" Clicked="Oneditclicked"></Button>
+                </Grid>
+            </StackLayout>
+            <Label Text="{Binding Department}" FontSize="20" HorizontalTextAlignment="Center"/>
+            <BoxView HeightRequest="1" BackgroundColor="Black"></BoxView>
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Text="Roll No" FontSize="20" FontAttributes="Bold" HorizontalOptions="End"
+                   VerticalTextAlignment="Center" VerticalOptions="Center"/>
+                    <Entry Grid.Column="1" Text="{Binding Num}" IsEnabled="False"/>
+                </Grid>
+            </StackLayout>
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Text="Session" FontAttributes="Bold" FontSize="20" VerticalOptions="Center"
+                 VerticalTextAlignment="Center"  HorizontalOptions="End"/>
+                    <Entry Grid.Column="1" Text="{Binding Session}" IsEnabled="False"/>
+                </Grid>
+            </StackLayout>
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Grid.Column="0" Text="Mobile " FontAttributes="Bold" FontSize="20" VerticalOptions="Center"
+                 VerticalTextAlignment="Center"  HorizontalOptions="End"/>
+                    <Entry Grid.Column="1" Text="{Binding Phone}" IsEnabled="False"/>
+                </Grid>
+            </StackLayout>
+            <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+            <StackLayout Padding="50,20,50,20" Spacing="10">
+                <Button BorderRadius="5" Text="Write Blog/Article" TextColor="White" BackgroundColor="Gray" Clicked="Oncreateblog"/>
+            </StackLayout>
+            <StackLayout Spacing="0" BackgroundColor="White">
+                <StackLayout Padding="10,10,10,10" BackgroundColor="#f6f6f6">
+                    <Label Text="Activities" FontSize="15" FontAttributes="Bold"/>
+                </StackLayout>
+                <BoxView HeightRequest="1" BackgroundColor="Silver"/>
+                <StackLayout Padding="20,10,20,10">
+                    <Frame>
+                        <Label Text="No Activity" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    </Frame>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

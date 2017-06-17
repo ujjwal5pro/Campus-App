@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Profile_Section.CreateBlogPage" Title="Create Blog">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="close" Order="Primary" Clicked="Oncloseclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+    <ScrollView Padding="10,10,10,10">
+        <StackLayout Spacing="10">
+            <StackLayout Padding="0,10,10,0">
+                <Label Text="Title" VerticalTextAlignment="End" FontSize="20"/>
+            </StackLayout>
+            <StackLayout>
+                <Entry x:Name="btitle" Placeholder="Enter Title"/>
+            </StackLayout>
+            <StackLayout Padding="0,10,10,0">
+                <Label Text="Field" VerticalTextAlignment="End" FontSize="20"/>
+            </StackLayout>
+            <StackLayout>
+                <Entry x:Name="bfield" Placeholder="Enter Title"/>
+            </StackLayout>
+            <StackLayout Padding="0,10,10,0">
+                <Label Text="Message Content" VerticalTextAlignment="End" FontSize="20"/>
+            </StackLayout>
+            <StackLayout>
+                <Editor x:Name="bcontent" HeightRequest="200"/>
+            </StackLayout>
+            <StackLayout Padding="80,10,80,10">
+                <Button Text="Create" BackgroundColor="Gray" TextColor="White" Clicked="Oncreateclicked"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

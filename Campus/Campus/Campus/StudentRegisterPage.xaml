@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.StudentRegisterPage" Title="Registration Page">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="close" Order="Primary" Clicked="Oncloseclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+    <ScrollView>
+        <StackLayout>
+            <Grid RowSpacing="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <ActivityIndicator Grid.RowSpan="2"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       IsVisible="False"
+                       IsEnabled="True"
+                       x:Name="syncIndicator"/>
+                <StackLayout Grid.Row="0" BackgroundColor="#5ABAFF"></StackLayout>
+                <StackLayout Grid.Row="1" Padding="10,30,10,10" VerticalOptions="FillAndExpand">
+                    <StackLayout VerticalOptions="CenterAndExpand" Spacing="5" x:Name="mainstack">
+                        <Label Text="Students Registration" TextColor="Teal"
+                   FontSize="30" FontAttributes="Bold"/>
+                        <StackLayout x:Name="stack1" Padding="10" IsVisible="True">
+                            <BoxView HeightRequest="75"/>
+                            <Label Text="Student ID" TextColor="Black"
+                       FontSize="25" FontAttributes="Bold"/>
+                            <Entry x:Name="rollno" Placeholder="Enter Your Roll no"
+                       PlaceholderColor="Silver" Keyboard="Numeric"/>
+                            <Label Text="  Please enter your roll no. to proceed" FontSize="12" 
+                       FontAttributes="Bold" TextColor="Silver"/>
+                            <BoxView HeightRequest="10"/>
+                            <Button Text="next" BackgroundColor="Teal" Clicked="Onnextclicked"
+                        TextColor="White" FontAttributes="Bold"/>
+                        </StackLayout>
+                        <StackLayout x:Name="stack2" Padding="10" IsVisible="False">
+                            <BoxView HeightRequest="10"/>
+                            <Label Text="Roll No" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Entry x:Name="rollno1" IsEnabled="False" PlaceholderColor="Silver" 
+                                   TextColor="Silver"/>
+                            <Label Text="Full Name" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Entry x:Name="name" Placeholder="Enter Name" PlaceholderColor="Silver" 
+                                   TextColor="Silver" />
+                            <Label Text="Department" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Picker x:Name="department" Title="Select Department">
+                                <Picker.Items>
+                                    <x:String>C.S.E.</x:String>
+                                    <x:String>E.C.E.</x:String>
+                                    <x:String>M.A.E.</x:String>
+                                </Picker.Items>
+                            </Picker>
+                            <Label Text="Session" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Entry x:Name="sessoin" Placeholder="Enter session" PlaceholderColor="Silver" 
+                                   TextColor="Silver"/>
+                            <Label Text="Birth Date" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Entry x:Name="birthdate" Placeholder="Enter Birth Date" PlaceholderColor="Silver" 
+                                   TextColor="Silver" />
+                            <Label Text="Phone" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Entry x:Name="phone" Placeholder="Enter Mobile No." PlaceholderColor="Silver" 
+                                   TextColor="Silver" Keyboard="Numeric"/>
+                            <Label Text="Email" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                            <Entry x:Name="email" Placeholder="Enter mail id" PlaceholderColor="Silver" 
+                                   TextColor="Silver"/>
+                            <Button Text="Next" BackgroundColor="Teal" TextColor="White" FontAttributes="Bold" 
+                                    Clicked="OnNext2clicked"/>
+                        </StackLayout>
+                        <StackLayout x:Name="stack3" Padding="10" IsVisible="False">
+                            <BoxView HeightRequest="100"/>
+                            <Label Text="Password" TextColor="Black" FontSize="25" FontAttributes="Bold"/>
+                            <Entry x:Name="password" Placeholder="Enter Password" PlaceholderColor="Silver" Keyboard="Numeric"/>
+                            <BoxView HeightRequest="10"/>
+                            <Button Text="Continue" BackgroundColor="Teal" Clicked="Oncontinueclicked" TextColor="White" 
+                                    FontAttributes="Bold"/>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

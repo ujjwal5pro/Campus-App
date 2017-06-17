@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Admin_Section.ViewNotificationPage" Title="Notification">
+    <ScrollView Padding="10,10,10,10">
+        <StackLayout Spacing="5">
+            <StackLayout Padding="10,10,5,10" Orientation="Vertical" HorizontalOptions="CenterAndExpand" Spacing="5">
+                <StackLayout>
+                    <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="30" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" Spacing="0">
+                    <Label Text="{Binding Type}" FontSize="15" HorizontalOptions="CenterAndExpand"/>
+                    <Label Text="{Binding Department}" FontSize="15" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+                <Label Text="{Binding Dtime}" FontSize="Small" HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+            <Frame Padding="10,10,10,10" HeightRequest="150">
+                <Label Text="{Binding Content}" FontAttributes="Bold" FontSize="20"></Label>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

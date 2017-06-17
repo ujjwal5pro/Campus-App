@@ -1,0 +1,224 @@
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.pdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.apk
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid-Signed.apk
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\FormsViewGroup.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.pdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.pdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\bin\Campus.Droid.apk
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\icon.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\layout\tabbar.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\layout\toolbar.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\values\styles.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\book.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\booko.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\details.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\home.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\homec.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\homeo.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\homeoc.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\i.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\library.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menu.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menuo.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menuos.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menus.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\notification.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\payment.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\placementcell.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\principal.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\profile.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\profileo.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\result.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\rti.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\social.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\socialo.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\notification1.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\logout.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\mail.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\settings.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\search.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\R.cs.flag
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\uploadflags.txt
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Java.Interop.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\Mono.Android.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\mscorlib.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Core.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Net.Http.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Xml.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Campus.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Campus.Droid.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Net.Http.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\add.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\edit.png
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.dll.config
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\com.xamarin.sample.MynewAzureAp.apk
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\com.xamarin.sample.MynewAzureAp-Signed.apk
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\FormsViewGroup.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\GCM.Client.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.CarouselView.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\FormsViewGroup.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\bin\com.xamarin.sample.MynewAzureAp.apk
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\icon.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\layout\tabbar.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\layout\toolbar.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\values\styles.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\booko.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\details.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\homec.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\homeo.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\homeoc.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\i.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\library.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menu.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menuo.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menuos.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\menus.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\notification.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\payment.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\placementcell.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\principal.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\profileo.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\result.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\rti.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\socialo.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\notification1.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\logout.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\mail.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\settings.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\search.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\add.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\edit.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\splash_screen.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\ppic.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\cse.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\ece.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\hsa.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\mae.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\pic1.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\user.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\user0.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\home.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\book.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\profile.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\res\drawable\social.png
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\R.cs.flag
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\uploadflags.txt
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Java.Interop.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Microsoft.CSharp.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Mono.Android.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Mono.CSharp.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\mscorlib.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.ComponentModel.Composition.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Core.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Net.Http.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Runtime.Serialization.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.ServiceModel.Internals.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Xml.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\System.Xml.Linq.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Campus.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Campus.Droid.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Java.Interop.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Mono.Android.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\mscorlib.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Core.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Net.Http.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Xml.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\obj\Release\Campus.Droid.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Droid\bin\Release\Campus.Droid.dll.mdb

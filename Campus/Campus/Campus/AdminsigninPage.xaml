@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.AdminsigninPage" Title="Admin SignIn">
+  <StackLayout VerticalOptions="Center" Padding="20,20,20,20" Spacing="5">
+    <Label Text="Sign In" FontSize="20" TextColor="Black" FontAttributes="Bold"/>
+    <BoxView BackgroundColor="Silver" HeightRequest="0.5"/>
+    <Frame>
+      <StackLayout>
+        <StackLayout Padding="10,10,10,10">
+          <Switch x:Name="Switchul" HorizontalOptions="StartAndExpand" Rotation="45"/>
+          <Switch x:Name="Switchur" HorizontalOptions="EndAndExpand" Rotation="-45"/>
+        </StackLayout>
+        <StackLayout Padding="10,10,10,10">
+          <Switch x:Name="Switchc" HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+        <StackLayout Padding="10,10,10,10">
+          <Switch x:Name="Switchll" HorizontalOptions="StartAndExpand" Rotation="-45"/>
+          <Switch x:Name="Switchlr" HorizontalOptions="EndAndExpand" Rotation="45"/>
+        </StackLayout>
+      </StackLayout>
+    </Frame>
+    <StackLayout Padding="80,15,80,15">
+      <Button Text="Login" TextColor="White" BackgroundColor="Gray" Clicked="Onloginclicked"/>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>

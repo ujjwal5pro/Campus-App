@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Admin_Section.FilterUserPage" Title="User Filter">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Close" Clicked="Oncloseclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+  <ScrollView>
+    <StackLayout>
+      <StackLayout Padding="20,10,20,5">
+        <Label Text="Categories"/>
+      </StackLayout>
+      <BoxView HeightRequest="1" BackgroundColor="Silver"/>
+      <StackLayout Padding="20,5,20,5" Orientation="Horizontal">
+        <Label Text="All" FontSize="17.5"/>
+        <Switch x:Name="All" HorizontalOptions="EndAndExpand" Toggled="All_OnToggled"/>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Padding="20,5,20,5" Orientation="Horizontal">
+        <Label Text="Students" FontSize="17.5"/>
+        <Switch x:Name="Switch1" HorizontalOptions="EndAndExpand"/>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <StackLayout Padding="20,5,20,5" Orientation="Horizontal">
+        <Label Text="Sub Admin" FontSize="17.5"/>
+        <Switch x:Name="Switch2" HorizontalOptions="EndAndExpand"/>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

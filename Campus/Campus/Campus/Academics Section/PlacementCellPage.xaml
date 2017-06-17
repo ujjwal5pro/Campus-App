@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Academics_Section.PlacementCellPage" Title="Placement Cell">
+  <StackLayout>
+    <ScrollView>
+      <StackLayout>
+
+        <StackLayout Padding="15,15,15,15" Spacing="5">
+          <Label Text="Jobs and Internships" FontSize="20" FontAttributes="Bold" TextColor="Silver"></Label>
+          <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+          <Frame HeightRequest="50">
+            <StackLayout VerticalOptions="Center">
+              <Label Text="Updating Soon" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </StackLayout>
+          </Frame>
+        </StackLayout>
+        <StackLayout Padding="15,15,15,15" Spacing="5">
+          <Label Text="College Projects" FontSize="20" FontAttributes="Bold" TextColor="Silver"></Label>
+          <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+          <Frame HeightRequest="50">
+            <StackLayout VerticalOptions="Center">
+              <Label Text="Updating Soon" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </StackLayout>
+          </Frame>
+        </StackLayout>
+        <StackLayout Padding="15,15,15,15" Spacing="5">
+          <Label Text="Past Records" FontSize="20" FontAttributes="Bold" TextColor="Silver"></Label>
+          <BoxView HeightRequest="0.5"></BoxView>
+          <Frame>
+            <StackLayout>
+              <Label Text="Session 2016-2017" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </StackLayout>
+          </Frame>
+          <Frame>
+            <StackLayout>
+              <Label Text="Session 2015-2016" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </StackLayout>
+          </Frame>
+          <Frame>
+            <StackLayout>
+              <Label Text="Session 2014-2015" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </StackLayout>
+          </Frame>
+        </StackLayout>
+        <!--<Grid>
+          <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            --><!--<RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>--><!--
+          </Grid.RowDefinitions>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+          </Grid.ColumnDefinitions>
+          <StackLayout Grid.Row="0">
+            <Frame>
+              <Label Text="Jobs and Internships" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="Onprojecttapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout Grid.Row="1">
+            <Frame>
+              <Label Text="College Projects" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="Onworkshopstapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          --><!--<StackLayout Grid.Row="2">
+            <Frame>
+              <Label Text="Internships" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="Oninternshipstapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout Grid.Row="3">
+            <Frame>
+              <Label Text="Jobs" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="Onjobstapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout Grid.Row="4">
+            <Frame>
+              <Label Text="Scholarships" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="Onscholarshipstapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout Grid.Row="5">
+            <Frame>
+              <Label Text="Higher Educations" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            </Frame>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="Onhighereducationtapped" NumberOfTapsRequired="1"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>--><!--
+        </Grid>-->
+      </StackLayout>
+    </ScrollView>
+  </StackLayout>
+</ContentPage>

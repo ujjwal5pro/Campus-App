@@ -1,0 +1,2 @@
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus.Windows\Campus.Windows.csproj;neutral
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\Campus.csproj;neutral

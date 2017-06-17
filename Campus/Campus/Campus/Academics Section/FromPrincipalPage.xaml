@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Academics_Section.FromPrincipalPage" Title="Principle's Desk">
+    <ScrollView>
+        <StackLayout Padding="10,10,10,10">
+            <Label/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".25*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Frame Grid.Row="0" Grid.Column="1" Padding="0">
+                    <Image Source="Ppic.png"/>
+                </Frame>
+                <Frame Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Padding="10,10,10,10">
+                    <StackLayout Padding="2.5,2.5,2.5,2.5" HorizontalOptions="FillAndExpand">
+                        <Label x:Name="PMessage" HorizontalTextAlignment="Start" HorizontalOptions="FillAndExpand" LineBreakMode="WordWrap"/>
+                        <BoxView HeightRequest="15"/>
+                        <Label Text="WITH BEST WISHES."/>
+                        <Label Text="Prof. O.P. Verma"/>
+                        <Label Text="Principal"/>
+                    </StackLayout>
+                </Frame>
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,133 @@
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Campus.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Campus.pdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.MainPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.App.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.MyClassroom.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollege_Section.DepartmentsPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollege_Section.FacillitiesPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollege_Section.GalleryPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollege_Section.StaffsInfoPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollege_Section.StudentActivityPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollege_Section.TechnicalSocietyPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollegePage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.FeesPaymentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.FromPrincipalPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.LibraryPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCellPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.Resultpage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.RtiPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Home_Section.HomePage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Profile_Section.Profile.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Social_Section.SocialPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Workshops.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Internships.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Projects.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Jobs.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Scholarships.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.HigherEducation.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.MediacontentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Social_Section.BlogviewPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Profile_Section.EditprofilePage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Home_Section.HomeFilterPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Home_Section.AnouncementsPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.SearchPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.NoificationPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Social_Section.BlogfilterPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.LandingPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.SigninPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Profile_Section.CreateBlogPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.GuestPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AdminPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.AdminsigninPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.dll
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.pdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.csprojResolveAssemblyReference.cache
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.UsersPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AddNotificationsPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AddContentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AllNotificationViewPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.UserManagePage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AllMediaContentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.ViewNotificationPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.FilterUserPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.StudentRegisterPage.xaml.g.cs
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\obj\Debug\Campus.dll.mdb
+C:\Users\Ujjwal Verma\documents\visual studio 2015\Projects\Campus\Campus\Campus\bin\Debug\Campus.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Campus.dll.config
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Campus.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Campus.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.CarouselView.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.csproj.App.config
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.MainPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.App.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.MyClassroom.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.AboutCollegePage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.FeesPaymentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.FromPrincipalPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.LibraryPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCellPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.Resultpage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.RtiPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Home_Section.HomePage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Profile_Section.Profile.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Social_Section.SocialPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Workshops.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Internships.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Projects.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Jobs.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.Scholarships.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Academics_Section.PlacementCell_Section.HigherEducation.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.MediacontentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Social_Section.BlogviewPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Profile_Section.EditprofilePage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Home_Section.HomeFilterPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Home_Section.AnouncementsPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.SearchPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.MyClassroom_Section.NoificationPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Social_Section.BlogfilterPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.LandingPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.SigninPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Profile_Section.CreateBlogPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.GuestPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AdminPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.AdminsigninPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.UsersPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AddNotificationsPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AddContentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AllNotificationViewPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.UserManagePage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.AllMediaContentPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.ViewNotificationPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.Admin_Section.FilterUserPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.StudentRegisterPage.xaml.g.cs
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.dll
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.pdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.csprojResolveAssemblyReference.cache
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\obj\Debug\Campus.dll.mdb
+C:\Users\Ujjwal Verma\Documents\Projects\Campus\Campus\Campus\bin\Debug\Campus.dll.mdb

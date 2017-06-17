@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Admin_Section.AddContentPage" Title="Add Content">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="close" Order="Primary" Clicked="Oncloseclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+  <ScrollView Padding="10,10,10,10">
+    <StackLayout Spacing="5">
+
+      <StackLayout Padding="10,10,10,0">
+        <Label Text="Type" VerticalTextAlignment="End" FontSize="20"/>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <Frame Padding="10,10,5,10">
+        <Picker Title="Select Type">
+          <Picker.Items>
+            <x:String>Pdf</x:String>
+            <x:String>Video</x:String>
+            <x:String>Image</x:String>
+          </Picker.Items>
+        </Picker>
+      </Frame>
+      <StackLayout Padding="10,10,10,0">
+        <Label Text="Subject" VerticalTextAlignment="End" FontSize="20"/>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <Frame Padding="10,10,5,10">
+        <Entry Placeholder="Enter Subject"/>
+      </Frame>
+      <StackLayout Padding="10,10,10,0">
+        <Label Text="Attachment" VerticalTextAlignment="End" FontSize="20"/>
+      </StackLayout>
+      <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+      <Frame Padding="10,10,10,10">
+        <Label Text="Select File" TextColor="Blue" HorizontalOptions="CenterAndExpand"></Label>
+      </Frame>
+      <StackLayout Padding="80,10,80,10">
+        <Button Text="Add" BackgroundColor="Gray" TextColor="White" Clicked="Onclreateclicked"></Button>
+      </StackLayout>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

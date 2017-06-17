@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Campus.Social_Section.BlogviewPage" Title="Blog/Article Title">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="close" Order="Primary" Clicked="Oncloseclicked"></ToolbarItem>
+  </ContentPage.ToolbarItems>
+  <ScrollView Padding="10,10,10,10">
+        <StackLayout>
+          <BoxView HeightRequest="5"/>
+          <StackLayout Spacing="15">
+            <Frame Padding="0,0,0,0">
+              <StackLayout>
+                <StackLayout Padding="15,10,10,0">
+                  <Label Text="Speaker" VerticalTextAlignment="End" FontSize="20"/>
+                </StackLayout>
+                <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+                <StackLayout Orientation="Horizontal" Padding="10,10,10,10">
+                  <StackLayout Padding="5,5,5,5">
+                    <Frame BackgroundColor="Blue"/>
+                  </StackLayout>
+                  <StackLayout Orientation="Vertical" Padding="5,5,5,5">
+                    <Label Text="John Sonmez" FontSize="15"/>
+                    <Label Text="founder , Simple Programmer" FontSize="10" ></Label>
+                  </StackLayout>
+                </StackLayout>
+              </StackLayout>
+            </Frame>
+              <Frame Padding="0,0,0,0">
+               <StackLayout>
+                <StackLayout Padding="15,10,10,0">
+                  <Label Text="Abstract" VerticalTextAlignment="End" FontSize="20"/>
+                </StackLayout>  
+                  <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+                <StackLayout Padding="15,10,15,10">
+                  <Label Text="Technical skills are great, but they can only take you so far in your career.
+                          Top earning software engineer know the imprtance of focusing on soft skills and
+                          personal development to achieve high lavel of success. In this no-fluff talk about
+                          skill, i'll give you 5 soft skills from my best selling book, SOFT SKILLS: The software
+                          Developer's life's Manual, That you can start implementing today to not only see a
+                          drastic improvement in your career, but your life in general." VerticalTextAlignment="Center" 
+                         FontSize="15"/>
+                </StackLayout>
+               </StackLayout>
+              </Frame>
+         </StackLayout>
+       </StackLayout>
+  </ScrollView>
+</ContentPage>

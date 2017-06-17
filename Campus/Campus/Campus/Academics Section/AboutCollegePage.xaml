@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView"
+             x:Class="Campus.Academics_Section.AboutCollegePage" Title="About College">
+    <ScrollView>
+        <StackLayout>
+            <BoxView HeightRequest="5"></BoxView>
+            <!--<forms:CarouselView x:Name="Maincarousel">
+                --><!--<DataTemplate>
+                    <Image Source="{Binding .}"/>
+                </DataTemplate>--><!--
+            </forms:CarouselView>-->
+            <Frame Padding="0">
+                <Image Source="pic1.png"></Image>
+            </Frame>
+            <StackLayout Padding="15,0,15,15" Spacing="5">
+                <!--<Label Text="" FontSize="20" FontAttributes="Bold" TextColor="Silver"></Label>
+          <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>-->
+                <Frame>
+                    <StackLayout>
+                        <Label x:Name="AboutField"/>
+                        <Label Text="Vision" FontSize="20" TextColor="Silver"/>
+                        <Label x:Name="VisionField"/>
+                        <Label Text="Our Mission" FontSize="20" TextColor="Silver"/>
+                        <Label x:Name="MissionField"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+            <StackLayout Spacing="5" Padding="5">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Departments" FontSize="20" FontAttributes="Bold" TextColor="Silver"></Label>
+                    <Label x:Name="DLabel" Text="view" FontSize="10" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center"/>
+                </StackLayout>
+                <BoxView HeightRequest="0.5" BackgroundColor="Silver"/>
+                <Frame IsVisible="False" x:Name="DFrame">
+                    <StackLayout>
+                        <Frame  Padding="5">
+                            <StackLayout  BackgroundColor="#f6f6f6">
+                                <Label Text="Computer Science And Engineering" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20" />
+                                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Padding="5">
+                                    <Label Text="H.O.D. ::" FontSize="Small"/>
+                                    <Label Text="Ms. Sunita Kumari" FontSize="Small"/>
+                                </StackLayout>
+                                <Image Source="cse.png"/>
+                                <BoxView HeightRequest="5"/>
+                                <Label x:Name="Aboutcse"/>
+                            </StackLayout>
+                        </Frame>
+                        <Frame Padding="5">
+                            <StackLayout  BackgroundColor="#f6f6f6">
+                                <Label Text="Electronics and Computer Engineering" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20" />
+                                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Padding="5">
+                                    <Label Text="H.O.D. ::" FontSize="Small"/>
+                                    <Label Text="Dr. Vibhakar Shrimali" FontSize="Small"/>
+                                </StackLayout>
+                                <Image Source="ece.png"/>
+                                <BoxView HeightRequest="5"/>
+                                <Label x:Name="Aboutece"/>
+                            </StackLayout>
+                        </Frame>
+                        <Frame Padding="5">
+                            <StackLayout  BackgroundColor="#f6f6f6">
+                                <Label Text="Mechanical and Automation Engineering" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20" />
+                                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Padding="5">
+                                    <Label Text="H.O.D. ::" FontSize="Small"/>
+                                    <Label Text="Dr. Ajay Singholi" FontSize="Small"/>
+                                </StackLayout>
+                                <Image Source="mae.png"/>
+                                <BoxView HeightRequest="5"/>
+                                <Label x:Name="Aboutmae"/>
+                            </StackLayout>
+                        </Frame>
+                        <Frame Padding="5">
+                            <StackLayout  BackgroundColor="#f6f6f6">
+                                <Label Text="Humanities and Applied Science" VerticalTextAlignment="Center"
+                   HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20" />
+                                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Padding="5">
+                                    <Label Text="H.O.D. ::" FontSize="Small"/>
+                                    <Label Text="Mr Joshil K Abraham" FontSize="Small"/>
+                                </StackLayout>
+                                <Image Source="hsa.png"/>
+                                <BoxView HeightRequest="5"/>
+                                <Label x:Name="Abouthas"/>
+                            </StackLayout>
+                        </Frame>
+                    </StackLayout>
+                </Frame>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Ondepartmenttapped"></TapGestureRecognizer>
+                </StackLayout.GestureRecognizers>
+            </StackLayout>
+            <Label Text=""></Label>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

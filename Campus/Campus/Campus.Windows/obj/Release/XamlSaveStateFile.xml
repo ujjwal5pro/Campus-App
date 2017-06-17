@@ -1,0 +1,22 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\campus\campus.windows\obj\release\intermediatexaml\campus.windows.exe" HashGuid="e4afa087-a105-1752-ee6a-2695ee83c7f8" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\campus\campus\bin\release\campus.dll" HashGuid="ff7e8fb5-e931-904d-5f3c-76e52dae59aa" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\microsoft.azure.mobile.client.3.1.0\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="d6a3dc69-a548-594a-6d32-f7c923aa64d9" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\microsoft.azure.mobile.client.3.1.0\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="e47c24a5-20c2-9f71-9849-dd6360f9b667" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\microsoft.azure.mobile.client.sqlitestore.3.1.0\lib\portable-win+net45+wp8+wpa81+monotouch10+monoandroid10+xamarinios10\microsoft.windowsazure.mobile.sqlitestore.dll" HashGuid="45119db6-05c2-f067-f5a1-0b46561ae7f4" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\sqlitepclraw.bundle_green.1.1.2\lib\win81\sqlitepclraw.batteries_green.dll" HashGuid="39f21040-4875-6272-89df-7d99d9436971" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\sqlitepclraw.bundle_green.1.1.2\lib\win81\sqlitepclraw.batteries_v2.dll" HashGuid="2ac16958-7d08-0826-efe2-e0251f98c9e2" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\sqlitepclraw.core.1.1.2\lib\win81\sqlitepclraw.core.dll" HashGuid="939c27f9-c9a3-606b-b661-bb33b1bc8f3f" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\sqlitepclraw.provider.e_sqlite3.win81.1.1.2\lib\win81\sqlitepclraw.provider.e_sqlite3.dll" HashGuid="5469b782-b65f-770b-0253-ad789550c352" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\xamarin.forms.carouselview.2.3.0-pre2\lib\win81\xamarin.forms.carouselview.dll" HashGuid="3ded6057-9f01-8bb8-dfdd-4c480fc82f51" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\xamarin.forms.2.3.0.46-pre3\lib\win81\xamarin.forms.core.dll" HashGuid="c30391b9-f93a-55bc-3bed-bad91032c5ef" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\xamarin.forms.2.3.0.46-pre3\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\xamarin.forms.2.3.0.46-pre3\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="0582f833-519c-0b5c-af4a-4e3bd65d7303" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\xamarin.forms.2.3.0.46-pre3\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="8b4d7ca9-dc92-b144-cb48-ecad39695391" />
+    <ReferenceAssembly PathName="c:\users\ujjwal verma\documents\projects\campus\packages\xamarin.forms.2.3.0.46-pre3\lib\win81\xamarin.forms.xaml.dll" HashGuid="68924db8-a65f-e414-d0af-af182cfb1786" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
